@@ -42,8 +42,6 @@ Hexo 版本 : [github.com/solstice23/hexo-theme-argon](https://github.com/solsti
 
 # Demo / 用户墙
 
-[solstice23.top](https://solstice23.top)
-
 [argon-demo.solstice23.top](http://argon-demo.solstice23.top)
 
 前往 [Argon 用户墙](https://argon-showcase.solstice23.top/) 查看更多博客的主题效果。
